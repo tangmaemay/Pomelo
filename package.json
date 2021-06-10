@@ -1,0 +1,23 @@
+{
+  "name": "pomelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangmaemay/Pomelo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangmaemay/Pomelo/issues"
+  },
+  "homepage": "https://github.com/tangmaemay/Pomelo#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.4"
+  }
+}
